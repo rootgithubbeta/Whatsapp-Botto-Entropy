@@ -2,6 +2,9 @@
   "name": "entropy",
   "version": "1.0.0",
   "description": "Well",
+  "engines": {
+    "node": "v12.22.5"
+  },
   "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && tsc -p .",
