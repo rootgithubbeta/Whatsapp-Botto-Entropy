@@ -4,7 +4,8 @@
   "description": "Well",
   "engines": {
     "node": "v12.22.5",
-    "npm" : "7.5.2"
+    "npm" : "7.5.2",
+    "yarn": "2.0"
   },
   "main": "dist/index.js",
   "scripts": {
